@@ -1,2 +1,4 @@
 # talksAlot
 Super basic TCP server and client
+
+ALL SCRIPTS ARE FOR EDUCATIONAL PURPOSES ONLY. DON'T FUCK UP OTHER PEOPLES' SHIT.
